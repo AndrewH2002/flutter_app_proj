@@ -282,7 +282,7 @@ class _ScavengerHuntScreenState extends State<ScavengerHuntScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Icon(
-                Icons.stairs,//gf
+                Icons.stairs,//gfd
                 size: 80,
                 color: Colors.green,
               ),
