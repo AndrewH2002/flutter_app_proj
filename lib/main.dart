@@ -64,7 +64,7 @@ class WelcomeScreen extends StatelessWidget {
                     const Icon(
                       Icons.school,
                       size: 80,
-                      color: Color(0xFFFDD023), // LSU Goldaj
+                      color: Color(0xFFFDD023), // LSU Goldajs
                     ),
                     const SizedBox(height: 24),
                     const Text(
